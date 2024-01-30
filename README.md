@@ -32,7 +32,7 @@ The project also answered important questions such as :-
 
 2. Women are more likely to purchase (69%) than men.
   <p align="center">
-  <img width="400" height="200" src="![image](https://github.com/debs1905/SupermarketDataAnalysis/assets/157870556/5a01c2f6-a665-4ac7-be48-5e2e0cb86c21)
+  <img width="400" height="200" src=""Super market Charts/Men vs Women.png ">
  ">
   </p>
   
