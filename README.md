@@ -71,7 +71,7 @@ Conclusion
 
 
 
-## Created By
+## Created By https://github.com/debs1905
 
 - # Super Market Data Analysis 
 
@@ -130,6 +130,5 @@ Final Conclusion
 
 
 
-## Created By
+## Created By https://github.com/debs1905
 
-- [@Sanjudebnath123](https://github.com/Sanjudebnath123)
