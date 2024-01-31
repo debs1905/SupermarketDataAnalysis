@@ -26,34 +26,22 @@ The project also answered important questions such as :-
 📈 Based on the report insights ,here are the outcomes of the sales :- 
  -
 1. In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
-  <p align="center">
-  <img width="400" height="200" src="Super market Charts/Sales vs month.png">
-  </p>
-
+ 
 2. Women are more likely to purchase (69%) than men.
-  <p align="center">
-  <img width="400" height="200" src=""Super market Charts/Men vs Women.png ">
- ">
-  </p>
+ 
   
 3. In my dataset, the different order statuses are primarily categorized as:
     - 92.25% of orders are marked as "Delivered".
    - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 
 4. Top 10 states :
-<p align="center">
-  <img width="400" height="200" src="Super market Charts/Top 10 states.png ">
-  </p>
+
 
 5.  The adult age group (30-49 yrs) made the most contributions.
-  <p align="center">
-  <img width="400" height="200" src="Super market Charts/Age & Gender vs order.png ">
-  </p>
+  
 
 6. Amazon, Flipkart and Myntra channels were the top contributors.
-  <p align="center">
-  <img width="400" height="200" src="Super market Charts/Channel vs sales.png ">
-  </p>
+  
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
